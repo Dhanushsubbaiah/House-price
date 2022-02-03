@@ -3,7 +3,7 @@ flasgger==0.9.4
 seaborn==0.9.0
 joblib==0.14.0
 Flask==1.1.2
-numpy==1.16.5
+numpy
 pandas
 scikit_learn
 gunicorn
